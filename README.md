@@ -1,4 +1,4 @@
-## 使用V2ray的任何TLS加密的，尽快升级到最新版本4.23.2及以上。原因如下：  
+## 使用V2ray的任何TLS加密的，尽快升级到最新版本4.23.2及以上。原因如下： 
 [v2ray的TLS流量可被简单特征码匹配精准识别](https://github.com/v2ray/discussion/issues/704)  
 
 # ProxySU
